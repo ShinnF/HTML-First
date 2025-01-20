@@ -16,3 +16,11 @@ button{
     box-shadow: 2px 2px lightgray;
     border: none;
 }
+
+a:hover{
+    background-color: lightpink;
+}
+
+button:hover{
+    background-color: lightpink;
+}
